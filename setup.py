@@ -4,13 +4,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="xing-tick-crawler",
-    version='0.0.7',
-    url="https://github.com/quantrading/xing-tick-crawler",
+    name="xing-hoga-crawler",
+    version='0.0.1',
+    url="https://github.com/BOmBzOO/xing-tick-crawler",
     license="MIT",
-    author="Jang Woo Jae",
-    author_email="woojae.jang26@gmail.com",
-    description="ebest xing api wrapper",
+    author="Bumju AhN",
+    author_email="bombzoo78@gmail.com",
+    description="xing hoga crawler",
     install_requires=[
         'pandas',
         'pywin32'
