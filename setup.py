@@ -6,9 +6,9 @@ from setuptools import setup, find_packages
 setup(
     name="xing-hoga-crawler",
     version='0.0.1',
-    url="https://github.com/BOmBzOO/xing-tick-crawler",
+    url="https://github.com/BOmBzOO/xing-hoga-crawler",
     license="MIT",
-    author="Bumju AhN",
+    author="Bumju Ahn",
     author_email="bombzoo78@gmail.com",
     description="xing hoga crawler",
     install_requires=[
